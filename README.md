@@ -2,12 +2,12 @@
 A browser extension that allows users to create 3D shapes in OpenJSCAD without writing any code :)
 
 ## Installation
--> Download a ZIP of this repo <br>
--> Extract the contents into a folder <br>
--> On your browser, open the extensions console, it might look something like like this <br><br>
+-> Download a ZIP of this repo.<br>
+-> Extract the contents into a folder.<br>
+-> On your browser, open the extensions console. (On Chrome, go to Extensions > Manage Exetensions.) It might look something like like this:<br><br>
 ![](https://files.catbox.moe/i68mma.png)<br><br>
--> Make sure developer mode is on <br>
-->Press load unpacked add the folder with the contents of the extension, ensure it includes the manifest.json file, that's very important or else the extension wont work<br>
+-> Make sure developer mode is on.<br>
+-> Press "load unpacked" add the folder with the contents of the extension. Ensure it includes the manifest.json file. That's very important or else the extension won't work.<br>
 -> Now head over to [openjscad.com](https://openjscad.com/) and you should see this :) <br><br>
 ![](https://files.catbox.moe/pl7wef.png)
 <br><br>
